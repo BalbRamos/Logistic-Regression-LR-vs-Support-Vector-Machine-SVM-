@@ -22,5 +22,12 @@ The dataset contains both categorical and integer variables and includes missing
 
 ## How to run
 Download "Balbino Ramos_Classification Project.ipynb";
+
 Go to: https://archive.ics.uci.edu/dataset/2/adult - Download the dataset;
+
 Keep both in the same folder, open "Balbino Ramos_Classification Project" and Run All Cells.
+
+## Extras
+"Presentation file.pdf", contains the full presentation used to summarize this project findings and present to class;
+
+
